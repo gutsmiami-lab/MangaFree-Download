@@ -32,7 +32,7 @@
 * Загрузка глав для комфортного офлайн-чтения.
 
 ## 📄 Правовая информация и контакты
-* **Политика конфиденциальности:** [Ознакомиться с документом](https://gutsmiami-lab.github.io/mangafree-legal/), если включен GitHub Pages).
+* **Политика конфиденциальности:** [Ознакомиться с документом](https://gutsmiami-lab.github.io/mangafree-legal/).
 * **Официальный Telegram-канал:** [t.me/manga_free_1](https://t.me/manga_free_1)
 * **Почта для связи и правообладателей:** `gutsmiami@gmail.com`
 

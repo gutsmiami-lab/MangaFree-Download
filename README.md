@@ -32,8 +32,8 @@
 * Загрузка глав для комфортного офлайн-чтения.
 
 ## 📄 Правовая информация и контакты
-* **Политика конфиденциальности:** [Ознакомиться с документом](https://github.com/gutsmiami-lab/mangafree-legal/blob/main/index.html) (или на [веб-странице](https://github.io), если включен GitHub Pages).
-* **Официальный Telegram-канал:** [t.me/manga_free_1](https://t.me)
+* **Политика конфиденциальности:** [Ознакомиться с документом](https://github.com/gutsmiami-lab/mangafree-legal/blob/main/index.html) (или на [веб-странице](https://gutsmiami-lab.github.io/mangafree-legal/), если включен GitHub Pages).
+* **Официальный Telegram-канал:** [t.me/manga_free_1]([https://t.me](https://t.me/manga_free_1))
 * **Почта для связи и правообладателей:** `gutsmiami@gmail.com`
 
 > ⚠️ **Внимание:** Приложение предназначено для пользователей старше 18 лет. Приложение является программным клиентом-ридером и не хранит контент на собственных серверах.

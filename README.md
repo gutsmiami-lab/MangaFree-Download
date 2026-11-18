@@ -6,8 +6,8 @@
 
 Актуальные установочные файлы доступны по ссылкам ниже:
 
-* 🤖 **[Скачать для Android (.apk)](https://github.com)**
-* 🍎 **[Скачать для iPhone (.ipa)](https://github.com)**
+* 🤖 **[Скачать для Android (.apk)](https://github.com/gutsmiami-lab/MangaFree-Download/releases/download/1.0.2/MangaFree-Android-APK.1.0.2.apk)**
+* 🍎 **[Скачать для iPhone (.ipa)](https://github.com/gutsmiami-lab/MangaFree-Download/releases/download/1.0.2/MangaFree-IOS-IPA.1.0.2.zip)**
 
 ---
 
